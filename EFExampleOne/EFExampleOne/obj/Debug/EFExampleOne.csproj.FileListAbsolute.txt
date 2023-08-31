@@ -1,0 +1,12 @@
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EFExampleOne.exe.config
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EFExampleOne.exe
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EFExampleOne.pdb
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EntityFramework.dll
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EntityFramework.SqlServer.dll
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EntityFramework.xml
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\bin\Debug\EntityFramework.SqlServer.xml
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\obj\Debug\EFExampleOne.csproj.AssemblyReference.cache
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\obj\Debug\EFExampleOne.csproj.CoreCompileInputs.cache
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\obj\Debug\EFExampleOne.csproj.CopyComplete
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\obj\Debug\EFExampleOne.exe
+D:\simplilearn\Course-2\day-8\EFExampleOne\EFExampleOne\obj\Debug\EFExampleOne.pdb
